@@ -6,8 +6,11 @@ Hellow world :
     # Debian/Ubuntu Linux use the apt command/apt-get command ##
     sudo apt install curl
     ## Fedora/CentOS/RHEL users try dnf command/yum command ##
+    
     sudo dnf install curl
+    
     ## OpenSUSE Linux users try zypper command ##
+    
     sudo zypper install curl
 
 if you have a problem in code, you can tell me
